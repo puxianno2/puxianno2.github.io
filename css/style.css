@@ -222,7 +222,7 @@ a {
 }
 #container #mobile-nav #header .header-menu {
   height: auto;
-  margin: 10px;
+  margin: 20px;
 }
 #container #mobile-nav #header .header-menu ul {
   text-align: center;
@@ -246,7 +246,7 @@ a {
 #container .left-col .overlay {
   width: 100%;
   height: 180px;
-  background-color: #000;
+  background-color: ea6753;
   position: absolute;
   opacity: 0.7;
 }
