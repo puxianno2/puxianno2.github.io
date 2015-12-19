@@ -288,7 +288,7 @@ a {
     height: 42px;
   }
   #container .overlay .slider-trigger:hover {
-    background: #444;
+    background: #ea6753;
   }
   #container .overlay .slider-trigger:before {
     color: #ddd;
