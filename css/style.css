@@ -284,8 +284,8 @@ a {
     z-index: 101;
     bottom: 0;
     left: 0;
-    width: 42px;
-    height: 42px;
+    width: 1px;
+    height: 1px;
   }
   #container .overlay .slider-trigger:hover {
     background: #444;
